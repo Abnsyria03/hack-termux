@@ -1,1 +1,1 @@
-# hack-termux
+# hack-termux-sython
